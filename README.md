@@ -4,10 +4,10 @@
 This repository is a dedicated practice journal of SQL, Excel, Power BI, and Python for data analysis. It includes exercises, mini-projects, learning logs, and datasets.
 
 ## 🗂️ Folder Structure
-📁 **SQL**/ → SQL Practice (daily queries, learning logs, exercises) 
-📁 **Excel**/ → Excel Practice (formulas, pivot tables, functions)
-📁 **PowerBI**/ → Power BI skill-building (DAX functions, dashboards)
-📁 **Python**/ → Python for Data Analysis skills (pandas, numpy, matplotlib)
+📁 **SQL**/ → SQL Practice (daily queries, learning logs, exercises) <br>
+📁 **Excel**/ → Excel Practice (formulas, pivot tables, functions) <br>
+📁 **PowerBI**/ → Power BI skill-building (DAX functions, dashboards) <br>
+📁 **Python**/ → Python for Data Analysis skills (pandas, numpy, matplotlib) <br>
 📁 **Datasets**/ → Raw data used in practice exercises
 
 ## 🚀 Navigation
